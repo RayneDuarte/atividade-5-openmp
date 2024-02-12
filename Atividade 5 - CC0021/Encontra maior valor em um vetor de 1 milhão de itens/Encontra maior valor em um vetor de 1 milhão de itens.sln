@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Encontra maior valor em um vetor de 1 milhão de itens", "Encontra maior valor em um vetor de 1 milhão de itens.vcxproj", "{F2CEFD38-7210-4CF2-8BA5-C40765AAA423}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2CEFD38-7210-4CF2-8BA5-C40765AAA423}.Debug|x64.ActiveCfg = Debug|x64
+		{F2CEFD38-7210-4CF2-8BA5-C40765AAA423}.Debug|x64.Build.0 = Debug|x64
+		{F2CEFD38-7210-4CF2-8BA5-C40765AAA423}.Debug|x86.ActiveCfg = Debug|Win32
+		{F2CEFD38-7210-4CF2-8BA5-C40765AAA423}.Debug|x86.Build.0 = Debug|Win32
+		{F2CEFD38-7210-4CF2-8BA5-C40765AAA423}.Release|x64.ActiveCfg = Release|x64
+		{F2CEFD38-7210-4CF2-8BA5-C40765AAA423}.Release|x64.Build.0 = Release|x64
+		{F2CEFD38-7210-4CF2-8BA5-C40765AAA423}.Release|x86.ActiveCfg = Release|Win32
+		{F2CEFD38-7210-4CF2-8BA5-C40765AAA423}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6910E94B-48E7-4336-BD83-66EA6EFEFFE3}
+	EndGlobalSection
+EndGlobal
